@@ -1,3 +1,11 @@
+> **Note.** This repository contains the code for the
+> **master's thesis version** (1,763 → 200 features, PLIP-based
+> descriptor validation).
+> An extended version — restructured feature pipeline (1,043 → 550),
+> ProLIF-based interaction descriptors, and Jackknife+ conformal
+> prediction — is currently in preparation for journal submission
+> and will be released upon publication.
+
 # Ensemble QSAR Model for GSK3β Inhibitor Prediction
 
 PLIP-based target-specific descriptor generation + 5-stage ensemble QSAR pipeline  
